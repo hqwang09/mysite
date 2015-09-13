@@ -1,1 +1,1 @@
-read
+ssh checkin test
